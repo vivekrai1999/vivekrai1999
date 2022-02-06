@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Python and DSA
+- 🌱 I’m currently learning Python, DSA and consistancy
 - 📫 How to reach me vivek.rai.2807@gmail.com
 
 <!---
